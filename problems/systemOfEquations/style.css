@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Inclusive+Sans:ital@0;1&display=swap');
+
+body {
+  margin: 0px;
+  font-family: 'Inclusive Sans', sans-serif;
+}
+
+#questions {
+  text-align: center;
+  width: 50%;
+
+  color: white;
+}
+
+.chart {
+  width: 50%;
+  min-height: 50%;
+}
+
+.content-container {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  height: 92vh;
+  padding: 4vh;
+
+  background-color: black;
+}
